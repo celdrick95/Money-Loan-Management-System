@@ -1,0 +1,41 @@
+C:\Users\PERSONAL COMPUTER\source\repos\Money Loan Management System\Money Loan Management System\bin\Debug\Money Loan Management System.exe.config
+C:\Users\PERSONAL COMPUTER\source\repos\Money Loan Management System\Money Loan Management System\bin\Debug\Money Loan Management System.exe
+C:\Users\PERSONAL COMPUTER\source\repos\Money Loan Management System\Money Loan Management System\bin\Debug\Money Loan Management System.pdb
+C:\Users\PERSONAL COMPUTER\source\repos\Money Loan Management System\Money Loan Management System\bin\Debug\Money Loan Management System.xml
+C:\Users\PERSONAL COMPUTER\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.vbproj.AssemblyReference.cache
+C:\Users\PERSONAL COMPUTER\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money_Loan_Management_System.frmMoneyLoan.resources
+C:\Users\PERSONAL COMPUTER\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money_Loan_Management_System.Resources.resources
+C:\Users\PERSONAL COMPUTER\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.vbproj.GenerateResource.cache
+C:\Users\PERSONAL COMPUTER\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.vbproj.CoreCompileInputs.cache
+C:\Users\PERSONAL COMPUTER\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.exe
+C:\Users\PERSONAL COMPUTER\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.xml
+C:\Users\PERSONAL COMPUTER\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.pdb
+C:\Users\PERSONAL COMPUTER\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money_Loan_Management_System.frmAccount.resources
+C:\Users\user\source\repos\Money Loan Management System\Money Loan Management System\bin\Debug\Money Loan Management System.exe.config
+C:\Users\user\source\repos\Money Loan Management System\Money Loan Management System\bin\Debug\Money Loan Management System.exe
+C:\Users\user\source\repos\Money Loan Management System\Money Loan Management System\bin\Debug\Money Loan Management System.pdb
+C:\Users\user\source\repos\Money Loan Management System\Money Loan Management System\bin\Debug\Money Loan Management System.xml
+C:\Users\user\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money_Loan_Management_System.frmMoneyLoan.resources
+C:\Users\user\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money_Loan_Management_System.frmAccount.resources
+C:\Users\user\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money_Loan_Management_System.Resources.resources
+C:\Users\user\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.exe
+C:\Users\user\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.xml
+C:\Users\user\source\repos\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.pdb
+D:\College\UCC SCHOOL\UCC 2A SEM\UCC 2A 1stSEM\CCS105 INFORMATION MANAGEMENT\Money Loan Management System\Money Loan Management System\Money Loan Management System\bin\Debug\Money Loan Management System.exe.config
+D:\College\UCC SCHOOL\UCC 2A SEM\UCC 2A 1stSEM\CCS105 INFORMATION MANAGEMENT\Money Loan Management System\Money Loan Management System\Money Loan Management System\bin\Debug\Money Loan Management System.exe
+D:\College\UCC SCHOOL\UCC 2A SEM\UCC 2A 1stSEM\CCS105 INFORMATION MANAGEMENT\Money Loan Management System\Money Loan Management System\Money Loan Management System\bin\Debug\Money Loan Management System.pdb
+D:\College\UCC SCHOOL\UCC 2A SEM\UCC 2A 1stSEM\CCS105 INFORMATION MANAGEMENT\Money Loan Management System\Money Loan Management System\Money Loan Management System\bin\Debug\Money Loan Management System.xml
+D:\College\UCC SCHOOL\UCC 2A SEM\UCC 2A 1stSEM\CCS105 INFORMATION MANAGEMENT\Money Loan Management System\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.vbproj.AssemblyReference.cache
+D:\College\UCC SCHOOL\UCC 2A SEM\UCC 2A 1stSEM\CCS105 INFORMATION MANAGEMENT\Money Loan Management System\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.exe.config
+D:\College\UCC SCHOOL\UCC 2A SEM\UCC 2A 1stSEM\CCS105 INFORMATION MANAGEMENT\Money Loan Management System\Money Loan Management System\Money Loan Management System\obj\Debug\Money_Loan_Management_System.frmMoneyLoan.resources
+D:\College\UCC SCHOOL\UCC 2A SEM\UCC 2A 1stSEM\CCS105 INFORMATION MANAGEMENT\Money Loan Management System\Money Loan Management System\Money Loan Management System\obj\Debug\Money_Loan_Management_System.frmAccount.resources
+D:\College\UCC SCHOOL\UCC 2A SEM\UCC 2A 1stSEM\CCS105 INFORMATION MANAGEMENT\Money Loan Management System\Money Loan Management System\Money Loan Management System\obj\Debug\Money_Loan_Management_System.Resources.resources
+D:\College\UCC SCHOOL\UCC 2A SEM\UCC 2A 1stSEM\CCS105 INFORMATION MANAGEMENT\Money Loan Management System\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.vbproj.GenerateResource.cache
+D:\College\UCC SCHOOL\UCC 2A SEM\UCC 2A 1stSEM\CCS105 INFORMATION MANAGEMENT\Money Loan Management System\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.vbproj.CoreCompileInputs.cache
+D:\College\UCC SCHOOL\UCC 2A SEM\UCC 2A 1stSEM\CCS105 INFORMATION MANAGEMENT\Money Loan Management System\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.exe
+D:\College\UCC SCHOOL\UCC 2A SEM\UCC 2A 1stSEM\CCS105 INFORMATION MANAGEMENT\Money Loan Management System\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.xml
+D:\College\UCC SCHOOL\UCC 2A SEM\UCC 2A 1stSEM\CCS105 INFORMATION MANAGEMENT\Money Loan Management System\Money Loan Management System\Money Loan Management System\obj\Debug\Money Loan Management System.pdb
